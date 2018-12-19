@@ -1,5 +1,5 @@
 # Trabalhos-Sistema-de-Recomendacao
-Trabalhos implementados na disciplina optativa "Introdução a Sistemas de Recomendação."
+Trabalhos implementados na disciplina optativa "Introdução a Sistemas de Recomendação.", em 2016-2.
 
 Estes trabalhos foram feitos pelo grupo de alunos Lívia de Azevedo, Ivo Paiva e Gustavo Ebbo.
 
